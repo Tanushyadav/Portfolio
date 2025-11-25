@@ -7,14 +7,14 @@ This project showcases my skills, projects, and contact information in a modern,
 
 ## 🚀 Features
 
-- Dark Mode** toggle with smooth transition
-- 3D Parallax Hero Section** using Framer Motion
-- Responsive Design** for mobile, tablet, and desktop
-- Project Modals** 
-- Skills Section** 
-- Contact Form** with draft saving (localStorage)
-- Downloadable Resume** (PDF)
-- Scroll Progress Bar** to indicate page scroll
+- **Dark Mode** toggle with smooth transition
+- **3D Parallax Hero Section** using Framer Motion
+- **Responsive Design** for mobile, tablet, and desktop
+- **Project Modals** 
+- **Skills Section** 
+- **Contact Form** with draft saving (localStorage)
+- **Downloadable Resume** (PDF)
+- **Scroll Progress Bar** to indicate page scroll
 
 
 ---
